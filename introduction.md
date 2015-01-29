@@ -3,3 +3,4 @@ I like these
 * Powershell
 * C#
 * .NET
+* Killing history using git rebase
